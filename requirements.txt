@@ -1,0 +1,9 @@
+numpy >=1.14
+seawater
+holteandtalley
+netCDF4
+matplotlib
+julian
+datetime
+lmfit
+pandas
