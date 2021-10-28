@@ -6,4 +6,4 @@ Regarding this data, we acknowledge the Remotely Sensed Biogeochemical Cycles in
 
 The notebook can be run through a webpage, just click on the launch-binder image.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/Two-community-phyto-model/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/Two-community-phyto-model/HEAD)
