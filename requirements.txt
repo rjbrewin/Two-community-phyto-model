@@ -7,3 +7,4 @@ julian
 datetime
 lmfit
 pandas
+pysolar
