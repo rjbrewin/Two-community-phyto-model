@@ -7,3 +7,5 @@ Regarding this data, we acknowledge the Remotely Sensed Biogeochemical Cycles in
 The notebook can be run through a webpage, just click on the launch-binder image.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rjbrewin/Two-community-phyto-model/HEAD)
+
+In addition to this notebook, we provide a folder containing the code (Python and IDL scripts) used in the paper, to produce all figures in the paper.  
