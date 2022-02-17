@@ -11,7 +11,7 @@
 ;   Figure_2
 ;
 ; INPUTS:
-;   BGC-Argo float data file 6901646_Sprof.nc
+;   BGC-Argo float data file 6901573_Sprof.nc
 ;   Model parameters from fits conducted in Python (see main Python code for the paper)
 ;
 ; OUTPUTS:
