@@ -191,10 +191,10 @@ pro Figure_2
   LEGEND, ['2'], /fill,textcolors = 0, psym=[0], linestyle = [0], $
     usersym=usersym,colors=[50], BOX=0, spacing =1.0, charsize =1.5,CHARTHICK=2, $
     thick =[15], position=[0.8,7.65]
-  LEGEND, ['!N!8b!S!E s,k!R!Ibp!N!3'], /fill,textcolors = 0, psym=[0], linestyle = [0], $
+  LEGEND, ['!N!8b!S!E *!R!Ibp!N!3'], /fill,textcolors = 0, psym=[0], linestyle = [0], $
     usersym=usersym,colors=[20], BOX=0, spacing =1.0, charsize =1.5,CHARTHICK=2, $
     thick =[15], position=[0.8,8.3]
-  LEGEND, ['1+2+!N!8b!S!E s,k!R!Ibp!N!3'], /fill,textcolors = 0, psym=[0], linestyle = [0], $
+  LEGEND, ['1+2+!N!8b!S!E *!R!Ibp!N!3'], /fill,textcolors = 0, psym=[0], linestyle = [0], $
     usersym=usersym,colors=[255], BOX=0, spacing =1.0, charsize =1.5,CHARTHICK=2, $
     thick =[7], position=[0.8,8.95]
   legend, ['(b)'],/fill,psym=[1],linestyle = [-1], box = 0, textcolor = 0,$
